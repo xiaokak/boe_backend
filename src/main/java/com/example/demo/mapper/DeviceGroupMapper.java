@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  *  Mapper 接口
  * </p>
  *
- * @author anonymous
+ * @author xiaoka
  * @since 2022-07-01
  */
 public interface DeviceGroupMapper extends BaseMapper<DeviceGroup> {

@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  *  服务类
  * </p>
  *
- * @author anonymous
+ * @author xiaoka
  * @since 2022-07-03
  */
 public interface NoticeService extends IService<Notice> {

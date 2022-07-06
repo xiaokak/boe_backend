@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  *  Mapper 接口
  * </p>
  *
- * @author anonymous
+ * @author xiaoka
  * @since 2022-07-03
  */
 public interface NoticeMapper extends BaseMapper<Notice> {
